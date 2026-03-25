@@ -1,7 +1,6 @@
 # 💳 Payment System
 
-A backend payment processing simulation developed as part of the
-Industry-Ready Engineer project at Sivas Cumhuriyet University.
+A simulated payment processing system built with industry-standard engineering practices.
 
 ## 📌 Project Overview
 This system simulates core payment operations — user accounts,
