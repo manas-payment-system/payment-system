@@ -30,7 +30,6 @@ transactions, balance management, and basic fraud detection.
 # Stack Decision Document
 **Project:** Payment System  
 **Date:** March 2025  
-**Author:** Backend Engineer
 
 ## Decision
 
